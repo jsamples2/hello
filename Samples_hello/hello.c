@@ -12,6 +12,7 @@ int main(int argc, char **argv) {
 
  printf("Jacob Samples/n");
  printf("Undecided/n")
-
+ printf("Collin Bishop")
+ printf("Undecided")   
     return 0;
 }
